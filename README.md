@@ -4,7 +4,7 @@ This simple plugin for Godot adds a dock with a table that shows all open scenes
 ## Setup
 ### Asset Library 
 1. In Godot, open the `AssetLib` tab.
-2. Search for and select **TableForSceneTabs**.
+2. Search for and select **Table For Scene Tabs**.
 3. Download then install the plugin.
 4. Enable it inside `Project > Project Settings > Plugins`.
 
